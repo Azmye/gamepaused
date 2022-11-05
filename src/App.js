@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Routes>
+      <Routes basename={process.env.PUBLIC_URL}>
         <Route>
           <Route path="/" element={<Home />} />
           <Route path="games" element={<Games />} />
