@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Azmye/gamepaused/static/css/main.c8059bb7.css",
-    "main.js": "/Azmye/gamepaused/static/js/main.e9d1867d.js",
-    "static/js/787.6e9d8646.chunk.js": "/Azmye/gamepaused/static/js/787.6e9d8646.chunk.js",
-    "index.html": "/Azmye/gamepaused/index.html",
-    "main.c8059bb7.css.map": "/Azmye/gamepaused/static/css/main.c8059bb7.css.map",
-    "main.e9d1867d.js.map": "/Azmye/gamepaused/static/js/main.e9d1867d.js.map",
-    "787.6e9d8646.chunk.js.map": "/Azmye/gamepaused/static/js/787.6e9d8646.chunk.js.map"
+    "main.css": "/gamepaused/static/css/main.c8059bb7.css",
+    "main.js": "/gamepaused/static/js/main.43df04b9.js",
+    "static/js/787.6e9d8646.chunk.js": "/gamepaused/static/js/787.6e9d8646.chunk.js",
+    "index.html": "/gamepaused/index.html",
+    "main.c8059bb7.css.map": "/gamepaused/static/css/main.c8059bb7.css.map",
+    "main.43df04b9.js.map": "/gamepaused/static/js/main.43df04b9.js.map",
+    "787.6e9d8646.chunk.js.map": "/gamepaused/static/js/787.6e9d8646.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8059bb7.css",
-    "static/js/main.e9d1867d.js"
+    "static/js/main.43df04b9.js"
   ]
 }
