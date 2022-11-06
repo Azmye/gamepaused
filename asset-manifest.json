@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Azmye/gamepaused/static/css/main.6a569e13.css",
+    "main.js": "/Azmye/gamepaused/static/js/main.2ab45974.js",
+    "static/js/787.6e9d8646.chunk.js": "/Azmye/gamepaused/static/js/787.6e9d8646.chunk.js",
+    "index.html": "/Azmye/gamepaused/index.html",
+    "main.6a569e13.css.map": "/Azmye/gamepaused/static/css/main.6a569e13.css.map",
+    "main.2ab45974.js.map": "/Azmye/gamepaused/static/js/main.2ab45974.js.map",
+    "787.6e9d8646.chunk.js.map": "/Azmye/gamepaused/static/js/787.6e9d8646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a569e13.css",
+    "static/js/main.2ab45974.js"
+  ]
+}
