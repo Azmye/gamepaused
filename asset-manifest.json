@@ -1,15 +1,30 @@
 {
   "files": {
     "main.css": "/gamepaused/static/css/main.c8059bb7.css",
-    "main.js": "/gamepaused/static/js/main.43df04b9.js",
+    "main.js": "/gamepaused/static/js/main.856c742f.js",
     "static/js/787.6e9d8646.chunk.js": "/gamepaused/static/js/787.6e9d8646.chunk.js",
+    "static/media/elden.jpg": "/gamepaused/static/media/elden.b61d8ceadab27870904f.jpg",
+    "static/media/fifa23.jpg": "/gamepaused/static/media/fifa23.77bf57c8cbfda4d6d2af.jpg",
+    "static/media/ptl.jpg": "/gamepaused/static/media/ptl.f575ccc4d306a4b88111.jpg",
+    "static/media/gta-vi.jpeg": "/gamepaused/static/media/gta-vi.e066207274a6349dfb5b.jpeg",
+    "static/media/hero.webp": "/gamepaused/static/media/hero.134f90e0fa609a89b3bb.webp",
+    "static/media/re4.png": "/gamepaused/static/media/re4.f2bbd64828051832bc6d.png",
+    "static/media/god-of-war.jpg": "/gamepaused/static/media/god-of-war.399d58fdb9d8d3e37e06.jpg",
+    "static/media/plt-lg.jpg": "/gamepaused/static/media/plt-lg.dee83ef8371a5fe0505a.jpg",
+    "static/media/gotham-k.webp": "/gamepaused/static/media/gotham-k.716b99462f4e33a11ca2.webp",
+    "static/media/mw2.jpg": "/gamepaused/static/media/mw2.8cb7ad586b35a31a3dcd.jpg",
+    "static/media/news-hero.jpg": "/gamepaused/static/media/news-hero.76e8f10252b93b8682da.jpg",
+    "static/media/wrc-gen.webp": "/gamepaused/static/media/wrc-gen.8b46bb48575e70329d13.webp",
+    "static/media/bayonetta-3.jpg": "/gamepaused/static/media/bayonetta-3.1a3f29f534e502b71234.jpg",
+    "static/media/cod-mw2.jpg": "/gamepaused/static/media/cod-mw2.e96ca2b7820962507fc9.jpg",
+    "static/media/splaton.jpg": "/gamepaused/static/media/splaton.eec0c2e68823c0dd538b.jpg",
     "index.html": "/gamepaused/index.html",
     "main.c8059bb7.css.map": "/gamepaused/static/css/main.c8059bb7.css.map",
-    "main.43df04b9.js.map": "/gamepaused/static/js/main.43df04b9.js.map",
+    "main.856c742f.js.map": "/gamepaused/static/js/main.856c742f.js.map",
     "787.6e9d8646.chunk.js.map": "/gamepaused/static/js/787.6e9d8646.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8059bb7.css",
-    "static/js/main.43df04b9.js"
+    "static/js/main.856c742f.js"
   ]
 }
